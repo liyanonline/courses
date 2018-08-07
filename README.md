@@ -1,6 +1,12 @@
+Welcome to my classes on this site:
+liyanonline.neolms.com
+
+To access each class the access code is required:
+
+Operations  Management: IISH-AEGZ
+
+Management: FNLH-BPWX
+
+Operational Research: QOPZ-KSMU
 
 
-#No.	  Class	                  Site	                  Access code
-*1	    Operations  Management	liyanonline.neolms.com	IISH-AEGZ
-*2	    Management	            liyanonline.neolms.com	FNLH-BPWX
-*3     Operational Research    liyanonline.neolms.com  QOPZ-KSMU
