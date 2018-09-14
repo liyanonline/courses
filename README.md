@@ -1,6 +1,7 @@
-# Welcome to my classes at [NEOLMS](http://liyanonline.neolms.com)
+# Couses taught by Associate Prof. Yan Li
+Taught on-campus at [SPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both English and Chinese).
 
-# To access each class the access code is required:
+# Welcome to my classes at [NEOLMS](http://liyanonline.neolms.com). To access each class the access codes are required:
 
 * Operations  Management: IISH-AEGZ
 
@@ -9,10 +10,6 @@
 * Operational Research: QOPZ-KSMU
 
 * Business Intelligence: XZPT-APZG
-
-
-# Couses taught by Associate Prof. Yan Li
-Taught on-campus at [SPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both English and Chinese).
 
 
 #### Manifesto:
