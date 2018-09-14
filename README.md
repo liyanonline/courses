@@ -1,5 +1,5 @@
 # Couses taught by Associate Prof. Yan Li
-Taught on-campus at [SPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both English and Chinese).
+Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both English and Chinese).
 
 # Welcome to my classes at [NEOLMS](http://liyanonline.neolms.com). To access each class the access codes are required:
 * Operations  Management: IISH-AEGZ
@@ -7,13 +7,13 @@ Taught on-campus at [SPU](http://en.sspu.edu.cn/2018/) and maintained to be frie
 * Operational Research: QOPZ-KSMU
 * Business Intelligence: XZPT-APZG
 
-# Additional materials
-* A large list of RL materials - [awesome rl](https://github.com/aikorea/awesome-rl)
-* [RL reading group](https://github.com/yandexdataschool/Practical_RL/wiki/RL-reading-group)
+# Alternatively, join my classes with class codes as follows:
+* Go to classroom.google.com and click Sign In. Sign in with your Google Account. ...
+* At the top, click Add Join class.
+* Enter the class code your teacher gave you and click Join. 
+    Operations  Management: 
+    Management: nf25v3
+* (Optional) To see if your teacher included a class overview, on the right, click About.
 
 # Contributions
-* Using pictures from [Berkeley AI course](http://ai.berkeley.edu/home.html)
-* Massively refering to [CS294](http://rll.berkeley.edu/deeprlcourse/)
-* Sevaral tensorflow assignments by [Scitator](https://github.com/Scitator)
-* A lot of fixes from [arogozhnikov](https://github.com/arogozhnikov)
-* Other awesome people: see github contributors
+* 
