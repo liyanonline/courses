@@ -1,4 +1,4 @@
-# Welcome to my classes at .[NEOLMS] (http://liyanonline.neolms.com)
+# Welcome to my classes at [NEOLMS](http://liyanonline.neolms.com)
 
 # To access each class the access code is required:
 
