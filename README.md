@@ -13,9 +13,8 @@ liyanonline.neolms.com
 * Business Intelligence: XZPT-APZG
 
 
-# Practical_RL
-A course on reinforcement learning in the wild.
-Taught on-campus at [HSE](https://cs.hse.ru) and [YSDA](https://yandexdataschool.com/)  and maintained to be friendly to online students (both english and russian).
+# Couses taught by Associate Prof. Yan Li
+Taught on-campus at [SSPU](http://www.sspu.edu.cn) and maintained to be friendly to online students (both English and Chinese).
 
 
 #### Manifesto:
