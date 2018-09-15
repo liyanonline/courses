@@ -7,7 +7,7 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
 * Operational Research: QOPZ-KSMU
 * Business Intelligence: XZPT-APZG
 
-# Preferably join my classes at [classroom](http://classroom.google.com) as follows:
+# Preferably join my [classroom](http://classroom.google.com) as follows:
 * Go to classroom.google.com and click Sign In. Sign in with your Google Account. ...
 * At the top, click Add Join class.
 * Enter the class code your teacher gave you and click Join. 
