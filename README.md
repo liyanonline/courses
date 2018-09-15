@@ -17,4 +17,4 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
 
 # Contact info
 * Email: liyanonline@gmail.com
-* [wordpress](http://liyanonline.wordpress.com)|[twitter](https://twitter.com/liyanonline)
+* [wordpress](https://liyanedu.wordpress.com/)|[twitter](https://twitter.com/liyanonline)
