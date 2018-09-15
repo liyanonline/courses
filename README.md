@@ -21,4 +21,4 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
 * wordpress: http://liyanonline.wordpress.com
 * twitter: https://twitter.com/liyanonline
 * facebook: https://www.facebook.com/lyonline
-* online meeting (appoinment required): https://appear.in/liyanonline
+* online meeting (appointment required): https://appear.in/liyanonline
