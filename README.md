@@ -7,7 +7,7 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
 * Operational Research: QOPZ-KSMU
 * Business Intelligence: XZPT-APZG
 
-# or preferably join my [classroom](http://classroom.google.com) as follows:
+# Or preferably join my [classroom](http://classroom.google.com) as follows:
 * Go to classroom.google.com and click Sign In. Sign in with your Google Account. ...
 * At the top, click Add Join class.
 * Enter the class code your teacher gave you and click Join. 
@@ -15,7 +15,7 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
     * Management: nf25v3
 * (Optional) To see if your teacher included a class overview, on the right, click About.
 
-# for cases, insights, suggestions, comments, and anything else please refer to:
+# For cases, insights, suggestions, comments, etc. please refer to:
 * [wordpress](https://liyanedu.wordpress.com/)
 
 # Contact info
