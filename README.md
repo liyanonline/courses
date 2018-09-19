@@ -15,9 +15,6 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
     * Management: nf25v3
 * (Optional) To see if your teacher included a class overview, on the right, click About.
 
-# For cases, insights, suggestions, comments, etc., refer to the following please:
-* [wordpress](https://liyanedu.wordpress.com/)
-
 # Associate Prof. Yan Li
 * Email: liyanonline@gmail.com
 * [github](https://github.com/liyanonline/courses)|[wordpress](https://liyanedu.wordpress.com/)|[twitter](https://twitter.com/liyanonline)
