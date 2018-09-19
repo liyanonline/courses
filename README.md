@@ -15,7 +15,7 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
     * Management: nf25v3
 * (Optional) To see if your teacher included a class overview, on the right, click About.
 
-# Cases, insights, suggestionsand comments:
+# for cases, insights, suggestions, comments, and anything else please refer to:
 * [wordpress](https://liyanedu.wordpress.com/)
 
 # Contact info
