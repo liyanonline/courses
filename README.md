@@ -1,7 +1,7 @@
 # Welcome to couses by Associate Prof. Yan Li
 Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both English and Chinese).
 
-# First of all refer to [mywordpress](https://liyanedu.wordpress.com/) for assighments, case studies, suggestions, etc.
+# First of all refer to [wordpress](https://liyanedu.wordpress.com/) for updates, assignments, case studies, and comments, etc.
 
 # You can find my classes on [neolms](http://liyanonline.neolms.com) with the access codes:
 * Operations  Management: IISH-AEGZ
