@@ -17,7 +17,7 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
 
 # Others
 * Refer to [wordpress](https://liyanedu.wordpress.com/) for updates, assignments, case studies, and comments, etc.
-* All ebooks come from [foxebooks](http://www.foxebook.net)
+* All ebooks come from [foxebooks](http://www.foxebook.net).
 
 # Contact info:
 * Email: liyanonline@gmail.com
