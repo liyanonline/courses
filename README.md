@@ -7,7 +7,7 @@ Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be fri
 * Management: FNLH-BPWX
 * Business Intelligence and Analytics: AEIK-RBSP
 
-# Or preferably join my [classroom](http://classroom.google.com) as follows:
+# Or join my [classroom](http://classroom.google.com) as follows:
 * Go to classroom.google.com and click Sign In. Sign in with your Google Account. ...
 * At the top, click Add Join class.
 * Enter the class code your teacher gave you and click Join. 
