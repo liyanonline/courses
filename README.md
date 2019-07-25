@@ -1,5 +1,5 @@
 # Welcome to couses by Associate Prof. Yan Li
-Taught on-campus at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both English and Chinese).
+Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both International and Chinese).
 
 
 # You can find my classes on [neolms](http://liyanonline.neolms.com) with the access codes:
