@@ -14,6 +14,7 @@ Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to o
     * Operations  Management: ji3sft
     * Management: nf25v3
     * Business Intelligence and Analytics: ftvuk33
+    * Cases: 8oyyy3
 * (Optional) To see if your teacher included a class overview, on the right, click About.
 
 # Others
