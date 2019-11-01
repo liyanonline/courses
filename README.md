@@ -18,6 +18,7 @@ Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to o
 * (Optional) To see if your teacher included a class overview, on the right, click About.
 
 # Others
+* Study Abroad: https://scholarship-positions.com/
 * Refer to [wordpress](https://liyanedu.wordpress.com/) for updates, assignments, case studies, and comments, etc.
 * All ebooks come from [foxebooks](http://www.foxebook.net).
 
