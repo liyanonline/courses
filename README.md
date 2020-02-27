@@ -1,4 +1,4 @@
-# Welcome to couses by Associate Prof. Yan Li
+# Welcome to the courses by Associate Prof. Yan Li
 Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both International and Chinese).
 
 
@@ -23,4 +23,4 @@ Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to o
 
 # Contact info:
 * Email: liyanonline@gmail.com
-* [github](https://github.com/liyanonline/courses)|[wordpress](https://liyanedu.wordpress.com/)|[twitter](https://twitter.com/liyanonline)
+
