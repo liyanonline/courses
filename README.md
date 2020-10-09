@@ -1,6 +1,10 @@
 # Welcome to the courses by Associate Prof. Yan Li
 Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to online students (both International and Chinese).
 
+# You can find my classes on [学习通] with the access codes:
+* Operations  Management: 35650369
+* Management: 95219216
+* Business Intelligence and Analytics: 23034625
 
 # You can find my classes on [neolms](http://liyanonline.neolms.com) with the access codes:
 * Operations  Management: IISH-AEGZ
