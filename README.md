@@ -6,10 +6,6 @@ Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to o
 * Management: 95219216
 * Business Intelligence and Analytics: 23034625
 
-# You can find my classes on [neolms](http://liyanonline.neolms.com) with the access codes (not actively updated for now):
-* Operations  Management: IISH-AEGZ
-* Management: FNLH-BPWX
-* Business Intelligence and Analytics: AEIK-RBSP
 
 # Or join my [classroom](http://classroom.google.com) as follows:
 * Go to classroom.google.com and click Sign In. Sign in with your Google Account. ...
