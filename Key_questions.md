@@ -1,4 +1,4 @@
-# key questions:
+# key questions
 
 * DESCRIBE the functions, roles, and skills of managers. Give an example. 
 
