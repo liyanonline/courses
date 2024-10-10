@@ -21,5 +21,5 @@ Taught at [SSPU](http://en.sspu.edu.cn/2018/) and maintained to be friendly to o
 * (Optional) To see if your teacher included a class overview, on the right, click About.
 
 # Contact info:
-* Email: liyanonline@gmail.com
+* Email: liyan@sspu.edu.cn
 
