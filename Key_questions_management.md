@@ -1,6 +1,7 @@
 # key questions
 
-* 1 DESCRIBE the functions, roles, and skills of managers. Give an example. 
+* 1 DESCRIBE the functions, roles, and skills of managers. Give an example.
+  * Broadly speaking, management is what managers do and involves coordinating and overseeing the efficient and effective completion of others’ work activities. Efficiency means doing things right; effectiveness means doing the right things. The four functions of management include planning (defining goals, establishing strategies, and developing plans), organizing (arranging and structuring work), lead ing (working with and through people), and controlling (monitoring, comparing, and correcting work performance). Mintzberg’s managerial roles include interpersonal, which involve people and oth er ceremonial/symbolic duties (figurehead, leader, and liaison); informational, which involve collecting, receiving, and disseminating information (monitor, disseminator, and spokesperson); and decisional, which involve making choices (entrepreneur, dis turbance handler, resource allocator, and negotiator). Katz’s managerial skills include technical (job-specific knowledge and techniques), interpersonal (ability to work well with people), and conceptual (ability to think and express ideas). Technical skills are most important for lower-level managers, while con ceptual skills are most important for top managers. Interpersonal skills are equally important for all managers. Some other managerial skills identified include managing human capital, inspiring commitment, managing change, using purposeful network ing, and so forth.
 
 * 2 Present your solution to the air conditioner problem from the management perspective.
 
