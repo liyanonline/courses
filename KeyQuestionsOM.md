@@ -19,6 +19,18 @@
 * Time-based strategies and quality-based strategies are among the most widely used strategies business organizations employ to serve their customers and to become more productive.
 * The chapter includes a description of the Balanced Scorecard approach, which can be helpful for transforming strategies into actions, and the impli- cations of organization strategy for operations management.
 * Productivity is a measure of the use of resources. There is considerable interest in productivity both from an organizational standpoint and from a national standpoint. Business organizations want higher productivity because it yields lower costs and helps them to become more competitive. Nations want higher productivity because it makes their goods and services more attractive, offsets inflationary pres- sures associated with higher wages, and results in a higher standard of living for their people.
+* Productivity Calculation
+
+Units produced: 	5,000 
+Standard price:	$30/unit
+Labor input:  	500 hours
+Cost of labor:	$25/hour
+Cost of materials: 	$5,000
+Cost of overhead: 	2x labor cost
+What is the multifactor productivity?
+
+![POWERPNT_gXmnUdCdfI](https://github.com/user-attachments/assets/aa5f7104-9ca0-4cf6-bcaf-f8c33d80c8bf)
+
 
 1.  Competitive pressure often means that business organizations must frequently assess their com- petitors’ strengths and weaknesses, as well as their own, to remain competitive.
 2.  Strategy formulation is critical because strategies provide direction for the organization, so they can play a role in the success or failure of a business organization.
