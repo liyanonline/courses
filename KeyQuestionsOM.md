@@ -13,8 +13,7 @@
 8. All business organizations have, and are part of, a supply chain that must be managed.
 
 # 2 Competitiveness, Strategy, and Productivity
-* Competition is the driving force in many organizations. It may involve price, quality, special features or services, time, or other factors. To develop effective strategies for business, it is essential for organiza- tions to determine what combinations of factors are important to customers, which factors are order qualifiers, and which are order winners.
-* It is essential that goals and strategies be aligned with the organization’s mission.
+* Competition is the driving force in many organizations. It may involve price, quality, special features or services, time, or other factors. To develop effective strategies for business, it is essential for organiza- tions to determine what combinations of factors are important to customers, which factors are order qualifiers, and which are order winners. It is essential that goals and strategies be aligned with the organization’s mission.
 * Strategies are plans for achieving organizational goals. They provide focus for decision making. Strategies must take into account present and future customer wants, as well as the organization’s strengths and weaknesses, threats and opportunities. These can run the gamut from what competitors are doing, or are likely to do, to technology, supply chain management, and e-business.
 * Organizations generally have overall strategies that pertain to the entire organization and strategies that pertain to each of the functional areas. Functional strategies are narrower in scope and should be linked to overall strategies.
 * Time-based strategies and quality-based strategies are among the most widely used strategies business organizations employ to serve their customers and to become more productive.
