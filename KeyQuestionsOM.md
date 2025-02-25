@@ -29,7 +29,8 @@ Cost of materials: 	$5,000
 Cost of overhead: 	2x labor cost
 What is the multifactor productivity?
 
-![POWERPNT_gXmnUdCdfI](https://github.com/user-attachments/assets/aa5f7104-9ca0-4cf6-bcaf-f8c33d80c8bf)
+![POWERPNT_iUnblWMwng](https://github.com/user-attachments/assets/beec69c8-3c39-4174-ba3c-e713e775cf5f)
+
 
 
 1.  Competitive pressure often means that business organizations must frequently assess their com- petitors’ strengths and weaknesses, as well as their own, to remain competitive.
