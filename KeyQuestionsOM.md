@@ -40,7 +40,18 @@ What is the multifactor productivity?
 5.  Productivity is a key factor in the cost of goods and services. Increases in productivity can become a competitive advantage.
 6.  High productivity is particularly important for organizations that have a strategy of low costs.
 
-# 4 Product and Service Design
+# 3 Product and Service Design
+
+  *  Product and service design is a key factor in satisfying the customer. To be successful in product and service design, organizations must be continually aware of what customers want, what the competition is doing, what government regulations are, and what new technologies are available.
+  *  The design process involves motivation, ideas for improvement, organizational capabilities, and fore casting. In addition to product life cycles, legal, environmental, and ethical considerations influence design choices. What degree of standardization designers should incorporate into designs is also an important consideration.
+  *  A key objective for designers is to achieve a product or service design that will meet or exceed customer expectations, within cost or budget and taking into account the capabilities of operations.
+  *  Although product design and service design are similar in some respects, a number of key differences exist between products and services that influence the way they are designed.
+  *  Successful design often incorporates many of these basic principles: Determine what customers want as a starting point; minimize the number of parts needed to manufacture an item or the number of steps to provide a service; simplify assembly or service, standardize as much as possible; and make the design robust. Trade-off decisions are common in design, and they involve such things as development time and cost, product or service cost, special features/performance, and product or service complexity.
+  *  Research and development efforts can play a significant role in product and process innovations, although these are sometimes so costly that only large companies or governments can afford to under write them.
+  *  Reliability of a product or service is often a key dimension in the eyes of the customer. Measuring and improving reliability are important aspects of product and service design, although other areas of the organization also have an influence on reliability.
+  *  Quality function deployment is one approach for getting customer input for product or service design.
+  *  A range of factors can cause an organization to design or redesign a product or service, includ ing economic, legal, political, social, technological, and competitive pressures. Furthermore, an important cause of operations failures can be traced to faulty design. Every area of a business organization and its supply chain is connected to, and influenced by, its products and/or services, so the potential impact on each area must be taken into account when products or services are redesigned or new products or services are to be designed.
+  *  Central issues relate to the actual or expected demand for a product or service, the organization’s capabilities, the cost to produce or provide, the desired quality level, and the cost and availability of necessary resources.
 
 # 6 Process Selection and Facility Layout
 
@@ -66,3 +77,10 @@ What is the multifactor productivity?
 # 9 Management of Quality
 
 # 10 Quality Control
+
+
+
+  *  Among considerations that are generally important are legal, ethical, and environmental.
+  *  Although there are some basic differences between product design and service design, there are many similarities between the two.
+![image](https://github.com/user-attachments/assets/40a8079a-0078-4842-b8aa-f054687f5c86)
+
