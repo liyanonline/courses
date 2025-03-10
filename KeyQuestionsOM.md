@@ -95,6 +95,23 @@ tion that will be needed.
 stood when making process selection and layout decisions.
  Process design is critical in a product-focused system, whereas managing is critical in a process
 focused system.
+
+# Unit 5 Location Planning and Analysis
+Location decisions confront both new and existing organizations. Growth, market shifts, depletion of raw materials, and the introduction of new products and services are among the reasons organizations are concerned with location decisions. The importance of these decisions is underscored by the long- term commitment they typically involve and by their potential impact on the operating system.
+The primary location options available to existing organizations are to expand an existing location, move to a new location, maintain existing facilities while adding another facility in a new location, or do nothing.
+
+In practice, the major influences on location decisions are location of raw materials, labor supply, market considerations, community-related factors, site-related factors, and climate. Foreign locations may be attractive in terms of labor costs, abundance of raw materials, or as potential markets for a firm’s products or services. Problems organizations sometimes encounter in foreign countries include language differences, cultural differences, bias, and political instability.
+
+A common approach to narrowing the range of location alternatives is to first identify a country or region that seems to satisfy overall needs and then identify a number of community-site alternatives for more in-depth analysis. A variety of methods are used to evaluate location alternatives. Those described in the chapter include locational cost-profit-volume analysis, factor rating, and the center of gravity method. The transportation model was mentioned briefly; your instructor can provide you with a mod- ule that covers the topic in detail.
+
+There are numerous commercial software packages available for location analysis. In addition to the models described, many packages employ linear programming or mixed integer programming algo- rithms. In addition, some software packages use heuristic approaches to obtain reasonable solutions to location problems.
+
+1.     Location decisions are strategic; they can have a significant impact on the success or failure of a business.
+2.     Very often, location decisions are long term and involve substantial cost, so it is important to devote an appropriate amount of effort to selecting a location.
+3.     Decision makers must not let the attractiveness of a few factors cloud the decision-making pro- cess. There are many factors to take into account when selecting a location. It is essential to identify the key factors and their relative importance, and then to use that information to evaluate location alternatives.
+4.     It is important to also factor in the impact that location choices will have on the supply chain.
+
+
 # 7 Work Design and Measurement
 
 # 5 Strategic Capacity Planning for Products and Services
