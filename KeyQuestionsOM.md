@@ -1,4 +1,4 @@
-# 1 Introduction to Operations Management
+# Unit Introduction to Operations Management
 * The operations function in business organizations is responsible for producing goods and providing services. It is a core function of every business. Supply chains are the sequential system of suppliers and customers that begins with basic sources of inputs and ends with final customers of the system. Operations and supply chains are interdependent—one couldn’t exist without the other, and no business organization could exist without both.
 * Operations management involves system design and operating decisions related to product and ser- vice design, capacity planning, process selection, location selection, work management, inventory and supply management, production planning, quality assurance, scheduling, and project management.
 * The historical evolution of operations management provides interesting background information on the continuing evolution of this core business function.
@@ -12,7 +12,7 @@
 7. Ethical behavior is an integral part of good management practice.
 8. All business organizations have, and are part of, a supply chain that must be managed.
 
-# 2 Competitiveness, Strategy, and Productivity
+# Unit 2 Competitiveness, Strategy, and Productivity
 * Competition is the driving force in many organizations. It may involve price, quality, special features or services, time, or other factors. To develop effective strategies for business, it is essential for organizations to determine what combinations of factors are important to customers, which factors are order qualifiers, and which are order winners. It is essential that goals and strategies be aligned with the organization’s mission.
 * Strategies are plans for achieving organizational goals. They provide focus for decision making. Strategies must take into account present and future customer wants, as well as the organization’s strengths and weaknesses, threats and opportunities. These can run the gamut from what competitors are doing, or are likely to do, to technology, supply chain management, and e-business.
 * Organizations generally have overall strategies that pertain to the entire organization and strategies that pertain to each of the functional areas. Functional strategies are narrower in scope and should be linked to overall strategies.
@@ -40,7 +40,7 @@ What is the multifactor productivity?
 5.  Productivity is a key factor in the cost of goods and services. Increases in productivity can become a competitive advantage.
 6.  High productivity is particularly important for organizations that have a strategy of low costs.
 
-# 3 Product and Service Design
+# Unit 3 Product and Service Design
 
   *  Product and service design is a key factor in satisfying the customer. To be successful in product and service design, organizations must be continually aware of what customers want, what the competition is doing, what government regulations are, and what new technologies are available.
   *  The design process involves motivation, ideas for improvement, organizational capabilities, and fore casting. In addition to product life cycles, legal, environmental, and ethical considerations influence design choices. What degree of standardization designers should incorporate into designs is also an important consideration.
@@ -53,7 +53,13 @@ What is the multifactor productivity?
   *  A range of factors can cause an organization to design or redesign a product or service, includ ing economic, legal, political, social, technological, and competitive pressures. Furthermore, an important cause of operations failures can be traced to faulty design. Every area of a business organization and its supply chain is connected to, and influenced by, its products and/or services, so the potential impact on each area must be taken into account when products or services are redesigned or new products or services are to be designed.
   *  Central issues relate to the actual or expected demand for a product or service, the organization’s capabilities, the cost to produce or provide, the desired quality level, and the cost and availability of necessary resources.
 
-# 6 Process Selection and Facility Layout
+# Unit 4 Process Selection and Facility Layout
+* Process selection choices often have strategic implications for organizations. They can affect cost, qual ity, productivity, customer satisfaction, and competitive advantage. Process types include job shop, batch processing, repetitive processing, continuous processing, and projects. Process type determines how work is organized, and it has implications for the entire organization and its supply chain. Process type and layout are closely related. Except for projects, process selection is usually a function of the volume and variety needed. Layout decisions are an important aspect of the design of operations systems, affecting operating costs and efficiency. Layout decisions are often closely related to process selection decisions. Product layouts are geared to high-volume output of standardized items. Workers and equipment are arranged according to the technological sequence required by the product or service involved. Empha sis in design is on work flow through the system, and specialized processing and handling equipment is often used. Product layouts are highly vulnerable to breakdowns. Preventive maintenance is used to reduce the occurrence of breakdowns. Software is available for large or complex designs. Process layouts group similar activities into departments or other work centers. These systems can handle a wide range of processing requirements and are less susceptible to breakdowns. However, the vari ety of processing requirements necessitates continual routing and scheduling and the use of variable-path material-handling equipment. The rate of output is generally much lower than that of product layouts. Fixed-position layouts are used when size, fragility, cost, or other factors make it undesirable or impractical to move a product through a system. Instead, workers, equipment, and materials are brought to the product. The main design efforts in product layout development focus on dividing up the work required to produce a product or service into a series of tasks that are as nearly equal as possible. The goal is to achieve a high degree of utilization of labor and equipment. In process layout, design efforts often focus on the relative positioning of departments to minimize transportation costs or to meet other require ments concerning the proximity of certain department pairs. The large number of possible alternatives to layout problems prevents an examination of each one. Instead, heuristic rules guide discovery of alternatives. The solutions thus obtained are usually satisfac tory although not necessarily optimal. Software packages are available to reduce the effort required to obtain solutions to layout problems, but these too rely largely on heuristic methods.
+* 1. Process choice is demand driven.
+  2. Process type and layout are a function of expected demand volume and the degree of customiza tion that will be needed.
+  3. Each process type and layout type has advantages and limitations that should be clearly under stood when making process selection and layout decisions.
+  4. Process design is critical in a product-focused system, whereas managing is critical in a process focused system.
+![image](https://github.com/user-attachments/assets/a7da7556-b8c7-4b15-83f0-8745b9eff7ad)
 
 
 # 7 Work Design and Measurement
